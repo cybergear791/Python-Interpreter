@@ -24,9 +24,7 @@ Nick Flouty & Jevan Smith
 
 # Expected Output
 `
---------------------------------
 [MESSAGE] Program Output:
---------------------------------
 array pass by reference test: Correct!
 int passed by value: Correct!
 sumAndDouble: Correct!

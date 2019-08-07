@@ -23,8 +23,11 @@ Nick Flouty & Jevan Smith
 
 
 # Expected Output
-`
+```
+--------------------------------
 [MESSAGE] Program Output:
+--------------------------------
+
 array pass by reference test: Correct!
 int passed by value: Correct!
 sumAndDouble: Correct!
@@ -39,10 +42,10 @@ u[0] test: Correct!
 u[1+2] + 5 test: Correct!
 g test: Correct!
 ->EVERYTHING WORKS!!!<-
-`
+```
 
 # Above Test Input
-`
+```
 finalResult = 0
 
 def someFunc(b):
@@ -197,4 +200,4 @@ if(finalResult == 13):
     print "->EVERYTHING WORKS!!!<-"
 else:
     print "SOMETHING FAILED :("
-`
+```

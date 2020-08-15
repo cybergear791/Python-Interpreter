@@ -6,10 +6,9 @@ Nick Flouty & Jevan Smith
 2. Run `./statement.x [*.txt]` where `[*.txt]` is a text file with Python code.
 
 # Supported Operations
-- function support
-- return value
-- array support
-- array len, array pop, array append
+- Function support
+- Return value
+- Array support
 - Assignment Statements
 - Relation Operators
 - Print statements
